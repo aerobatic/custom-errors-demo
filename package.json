@@ -1,0 +1,22 @@
+{
+  "_virtualApp": {
+    // Middleware for declaring custom error pages for different
+    // http status codes.
+    // Configure in the _virtualApp section of package.json like so:
+    "router": [
+      {
+        "module": "custom-errors",
+        "options": {
+          "errors": {
+            "500": "errors/500.html",
+            "404": "errors/404.html",
+            "401": "errors.401.html"
+          }
+        }
+      },
+      {
+        "module": "webpage"
+      }
+    ]
+  }
+}
