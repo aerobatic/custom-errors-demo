@@ -8,9 +8,9 @@
         "module": "custom-errors",
         "options": {
           "errors": {
-            "500": "errors/500.html",
-            "404": "errors/404.html",
-            "401": "errors.401.html"
+            "500": "/errors/500.html",
+            "404": "/errors/404.html",
+            "401": "/errors.401.html"
           }
         }
       },
