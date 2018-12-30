@@ -1,5 +1,5 @@
-# README #
+# Aerobatic custom-errors plugin demo
 
-This is a sample web app showing how to create custom errors for your Aerobatic hosted web app.
+Demonstration of the Aerobatic [custom-errors](https://www.aerobatic.com/docs/plugins/custom-errors/) plugin.
 
-The web app can be viewed at [http://custom-errors.aerobatic.io/](http://custom-errors.aerobatic.io/)
+The web app can be viewed at [http://custom-errors-demo.aerobaticapp.com/](http://custom-errors-demo.aerobaticapp.com/)
