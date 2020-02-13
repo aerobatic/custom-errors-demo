@@ -1,9 +1,9 @@
-id: 3c9dadbb-2072-4550-8a84-c05e47a791ee
+id: e54c4115-0a1f-4c87-a71e-6f7f3e4e4e9c
 plugins:
   - name: custom-errors
     options:
       errors:
-        "401": errors/401.html
-        "404": errors/404.html
-        "500": errors/500.html
+        '401': errors/401.html
+        '404': errors/404.html
+        '500': errors/500.html
 deploy: {}
